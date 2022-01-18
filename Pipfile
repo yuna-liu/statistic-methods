@@ -12,6 +12,7 @@ scipy = "*"
 ipykernel = "*"
 openpyxl = "*"
 seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 
